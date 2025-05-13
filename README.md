@@ -34,7 +34,7 @@ eine kreative Überlebensstrategie mit Stil, Humor und einem Schuss schwarzem Ka
 ---
 
 > _"Manche Menschen schreiben Tagebuch – ich schreibe Code."_  
-> – Irgendwo zwischen <body> und </html>
+> – Irgendwo zwischen `<body>` und `</html>`
 
 ---
 
