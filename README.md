@@ -19,7 +19,7 @@ others spontaneously choose a free fall into madness.
 What works well gets celebrated.
 What crashes ends up honestly documented on **GitHub** – including error messages, debug notes, and sometimes even a small meltdown.
 
-###💡 My digital self-help program
+### 💡 My digital self-help program
 
 This is more than just a code archive.
 It’s a place of **semicolon-driven self-discovery**,
@@ -29,3 +29,9 @@ a creative survival strategy with style, humor, and a shot of black coffee.
 >- Somewhere between `<body>` and `</html>`-
 
 🙏 Glad you’re here. Take a look around. Maybe you’ll find something between the lines that inspires you – or at least makes you smile.
+
+---
+### My statistics
+![Stars All](https://mini-badges.rondevhub.de/git/RonDevHub/Mini-Badges/stars_all "All my stars") ![Stars All](https://mini-badges.rondevhub.de/git/RonDevHub/Mini-Badges/repos_count "All Repos") ![Size All](https://mini-badges.rondevhub.de/git/RonDevHub/Mini-Badges/size_all "Size of all my files") ![Number of my files](https://mini-badges.rondevhub.de/git/RonDevHub/Mini-Badges/files_all "Number of all my files") ![Number of my files](https://mini-badges.rondevhub.de/git/RonDevHub/Mini-Badges/pushed_at_all-info "Last Pushed at")
+
+
