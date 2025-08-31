@@ -1,46 +1,31 @@
-## 👋 Willkommen in meinem Kopf – äh, auf meinem Profil!
+## 👋 Welcome to my head – uh, I mean, my profile!
 
-**Zwischen Wahnsinn und Webseiten** – genau da findet mein Alltag statt.  
-Für mich ist Programmieren nicht einfach nur ein Zeitvertreib oder ein Beruf –  
-es ist meine ganz persönliche Art, mit einer **überaktiven Birne** und meiner **PTBS** klarzukommen.  
+**Between madness and websites** – that’s where my everyday life happens.
+For me, programming isn’t just a hobby or a job –
+it’s my personal way of coping with an **overactive brain** and my **PTSD/PTBS**.
 🧠💻
 
----
+### 💬 Why I code
 
-### 💬 Warum ich code
+In my world, a clean HTML document can sometimes replace a therapy session,
+and a well-placed margin can bring more order to my life than most calendars.
+I write **HTML**, tinker with **PHP**, style with **CSS** – and experience the full spectrum of human emotions:
+from euphoria to existential crises over a missing semicolon.
 
-In meiner Welt ersetzt ein sauberes HTML-Dokument manchmal eine Therapiestunde,  
-und ein gut platzierter `margin` kann mehr Ordnung in mein Leben bringen als so mancher Kalender.  
-Ich schreibe **HTML**, bastle mit **PHP**, style mit **CSS** – und erlebe dabei die ganze Palette menschlicher Emotionen:  
-Von Euphorie bis zur existenziellen Krise nach einem fehlenden Semikolon.
+### 🔄 Between success and exceptions
 
----
+I work on web projects from time to time – some run surprisingly smoothly,
+others spontaneously choose a free fall into madness.
+What works well gets celebrated.
+What crashes ends up honestly documented on **GitHub** – including error messages, debug notes, and sometimes even a small meltdown.
 
-### 🔄 Zwischen Erfolg und Ausnahmefehler
+###💡 My digital self-help program
 
-Ich arbeite immer mal wieder an Webprojekten – manche laufen erstaunlich rund,  
-andere entscheiden sich spontan für den freien Fall in den Wahnsinn.  
-Was gut wird, wird gefeiert.  
-Was abstürzt, landet ehrlich dokumentiert auf **GitHub** – inklusive Fehlermeldung, Debug-Notizen und manchmal auch einem kleinen Nervenzusammenbruch.
+This is more than just a code archive.
+It’s a place of **semicolon-driven self-discovery**,
+a creative survival strategy with style, humor, and a shot of black coffee.
 
----
+>_"Some people keep a diary – I write code."_
+>- Somewhere between `<body>` and `</html>`-
 
-### 💡 Mein digitales Selbsthilfeprogramm
-
-Das hier ist mehr als nur ein Code-Archiv.  
-Es ist ein **Ort der semikolongetriebenen Selbsterkenntnis**,  
-eine kreative Überlebensstrategie mit Stil, Humor und einem Schuss schwarzem Kaffee.
-
----
-
-> _"Manche Menschen schreiben Tagebuch – ich schreibe Code."_  
-> – Irgendwo zwischen `<body>` und `</html>`
-
----
-
-🙏 Schön, dass du hier bist. Schau dich ruhig um. Vielleicht findest du zwischen den Zeilen ja etwas, das dich inspiriert – oder wenigstens zum Schmunzeln bringt.
-
-<!---
-RonDevHub/RonDevHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🙏 Glad you’re here. Take a look around. Maybe you’ll find something between the lines that inspires you – or at least makes you smile.
