@@ -31,6 +31,13 @@ a creative survival strategy with style, humor, and a shot of black coffee.
 🙏 Glad you’re here. Take a look around. Maybe you’ll find something between the lines that inspires you – or at least makes you smile.
 
 ---
+### Support me
+[![Buy me a coffee](https://mini-badges.rondevhub.de/icon/cuptogo/Buy_me_a_Coffee-c1d82f-222/flat "Buy me a coffee")](https://www.buymeacoffee.com/RonDev)
+[![ko-fi.com](https://mini-badges.rondevhub.de/icon/cuptogo/ko--fi.com-c1d82f-222/flat "Buy me a coffee")](https://ko-fi.com/U6U31EV2VS)
+[![Sponsor me](https://mini-badges.rondevhub.de/icon/hearts-red/Sponsor_me/flat "Sponsor me")](https://github.com/sponsors/RonDevHub)
+[![Pizza Power](https://mini-badges.rondevhub.de/icon/pizzaslice/Buy_me_a_pizza/flat "Pizza Power")](https://www.paypal.com/paypalme/Depressionist1/4,99)
+
+---
 ### My statistics
 ![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/stars-all "All my stars") ![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/repos_count "All Repos") ![Size All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/size_all "Size of all my files") ![Number of my files](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/files-all "Number of all my files") ![Number of my lines](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/lines "Number of all my lines") ![Follower Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/follower "Follower Count") ![Last Follower Name](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/follower-name "Last Follower Name") ![Following Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/following "Following Count") ![Last Following Name](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/following-name "Last Following Name")
 
