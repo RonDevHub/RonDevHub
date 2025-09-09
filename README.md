@@ -39,6 +39,13 @@ a creative survival strategy with style, humor, and a shot of black coffee.
 
 ---
 ### My statistics
-![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/stars-all "All my stars") ![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/repos_count "All Repos") ![Size All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/size_all "Size of all my files") ![Number of my files](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/files-all "Number of all my files") ![Number of my lines](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/lines "Number of all my lines") ![Follower Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/follower "Follower Count") ![Following Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/following "Following Count")
+![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/stars-all "All my stars") ![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/repos_count "All Repos") ![Size All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/size_all "Size of all my files") ![Number of my lines](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/lines "Number of all my lines") ![Follower Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/follower "Follower Count") ![Following Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/following "Following Count")
+
+---
+### Follow me
+[![Mastodon](https://mini-badges.rondevhub.de/icon/mastodon-8db9ca/@RonDev-8db9ca-222/flat "Mastodon")](https://mastodon.social/@RonDev)
+[![Gitlab](https://mini-badges.rondevhub.de/icon/gitlab-fca326/RonDevHub-fca326-222/flat "Gitlab")](https://gitlab.com/RonDevHub)
+[![CommitCloud](https://mini-badges.rondevhub.de/icon/codefork-84bd00/CommitCloud-84bd00-222/flat "CommitCloud")](https://commitcloud.net/RonDevHub)
+[![Godeberg](https://mini-badges.rondevhub.de/icon/codeberg-b84592/CommitCloud-b84592-222/flat "Codeberg")](https://codeberg.org/RonDevHub)
 
 
