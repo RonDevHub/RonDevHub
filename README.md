@@ -44,8 +44,7 @@ a creative survival strategy with style, humor, and a shot of black coffee.
 ---
 ### Follow me
 [![Mastodon](https://mini-badges.rondevhub.de/icon/mastodon-8db9ca/Mastodon-8db9ca-222/flat "Mastodon")](https://mastodon.social/@RonDev)
+[![Github](https://mini-badges.rondevhub.de/icon/github-f5f5f5/Github-f5f5f5-222/flat "Github")](https://github.com/RonDevHub)
 [![Gitlab](https://mini-badges.rondevhub.de/icon/gitlab-fca326/Gitlab-fca326-222/flat "Gitlab")](https://gitlab.com/RonDevHub)
 [![CommitCloud](https://mini-badges.rondevhub.de/icon/codecommit-84bd00/CommitCloud-84bd00-222/flat "CommitCloud")](https://commitcloud.net/RonDevHub)
 [![Godeberg](https://mini-badges.rondevhub.de/icon/mountains-ecb731/Codeberg-ecb731-222/flat "Codeberg")](https://codeberg.org/RonDevHub)
-
-
