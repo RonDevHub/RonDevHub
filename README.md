@@ -39,7 +39,7 @@ a creative survival strategy with style, humor, and a shot of black coffee.
 
 ---
 ### My statistics
-![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/stars-all "All my stars") ![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/repos_count "All Repos") ![Size All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/size_all "Size of all my files") ![Number of my lines](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/lines "Number of all my lines") ![Follower Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/follower "Follower Count") ![Following Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/following "Following Count")
+![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/stars-all "All my stars") ![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/repos_count "All Repos") ![Size All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/size_all "Size of all my files") ![Follower Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/follower "Follower Count") ![Following Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/following "Following Count")
 
 ---
 ### Follow me
