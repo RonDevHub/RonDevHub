@@ -2,8 +2,7 @@
 
 **Between madness and websites** – that’s where my everyday life happens.
 For me, programming isn’t just a hobby or a job –
-it’s my personal way of coping with an **overactive brain** and my **PTSD/PTBS**.
-🧠💻
+it’s my personal way of coping with an **overactive brain** and my **PTSD/PTBS**. :brain: :computer:
 
 ### 💬 Why I code
 
@@ -23,7 +22,7 @@ What crashes ends up honestly documented on **GitHub** – including error messa
 
 This is more than just a code archive.
 It’s a place of **semicolon-driven self-discovery**,
-a creative survival strategy with style, humor, and a shot of black coffee.
+a creative survival strategy with style, humor, and a shot of black coffee :coffee:.
 
 >_"Some people keep a diary – I write code."_
 >- Somewhere between `<body>` and `</html>`-
