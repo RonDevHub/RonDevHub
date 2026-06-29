@@ -22,18 +22,18 @@ a creative survival strategy with style, humor, and a shot of black coffee.
 🙏 Glad you’re here. Take a look around. Maybe you’ll find something between the lines that inspires you – or at least makes you smile.
 ---
 ### Support me
-[![Buy me a coffee](https://mini-badges.rondevhub.de/icon/cuptogo/Buy_me_a_Coffee-c1d82f-222/for-the-badge "Buy me a coffee")](https://www.buymeacoffee.com/RonDev)
-[![ko-fi.com](https://mini-badges.rondevhub.de/icon/cuptogo/ko--fi.com-c1d82f-222/for-the-badge "ko-fi.com")](https://ko-fi.com/U6U31EV2VS)
-[![Sponsor me](https://mini-badges.rondevhub.de/icon/hearts-red/Sponsor_me/for-the-badge "Sponsor me")](https://github.com/sponsors/RonDevHub)
-[![Pizza Power](https://mini-badges.rondevhub.de/icon/paypal/PayPal/for-the-badge "Pizza Power")](https://www.paypal.com/donate/?hosted_button_id=PWY939TPCQ3RA)
+[![Buy me a coffee](https://mini-badges.rondev.de/icon/cuptogo/Buy_me_a_Coffee-c1d82f-222/for-the-badge "Buy me a coffee")](https://www.buymeacoffee.com/RonDev)
+[![ko-fi.com](https://mini-badges.rondev.de/icon/cuptogo/ko--fi.com-c1d82f-222/for-the-badge "ko-fi.com")](https://ko-fi.com/U6U31EV2VS)
+[![Sponsor me](https://mini-badges.rondev.de/icon/hearts-red/Sponsor_me/for-the-badge "Sponsor me")](https://github.com/sponsors/RonDevHub)
+[![Pizza Power](https://mini-badges.rondev.de/icon/paypal/PayPal/for-the-badge "Pizza Power")](https://www.paypal.com/donate/?hosted_button_id=PWY939TPCQ3RA)
 ---
 ### My statistics
-![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/stars-all "All my stars") ![Stars All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/repos_count "All Repos") ![Size All](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/size_all "Size of all my files") ![Follower Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/follower "Follower Count") ![Following Count](https://mini-badges.rondevhub.de/github/RonDevHub/Mini-Badges/following "Following Count")
+![Stars All](https://mini-badges.rondev.de/github/RonDevHub/Mini-Badges/stars-all "All my stars") ![Stars All](https://mini-badges.rondev.de/github/RonDevHub/Mini-Badges/repos_count "All Repos") ![Size All](https://mini-badges.rondev.de/github/RonDevHub/Mini-Badges/size_all "Size of all my files") ![Follower Count](https://mini-badges.rondev.de/github/RonDevHub/Mini-Badges/follower "Follower Count") ![Following Count](https://mini-badges.rondev.de/github/RonDevHub/Mini-Badges/following "Following Count")
 ---
 ### Follow me
-[![Mastodon](https://mini-badges.rondevhub.de/icon/mastodon-8db9ca/Mastodon-8db9ca-222/social "Mastodon")](https://mastodon.social/@RonDev)
-[![Bluesky](https://mini-badges.rondevhub.de/icon/bluesky-0079c1/Bluesky-0079c1-fff/social "Bluesky")](https://bsky.app/profile/rondevhub.bsky.social)
-[![Github](https://mini-badges.rondevhub.de/icon/github-f5f5f5/Github-f5f5f5-222/social "Github")](https://github.com/RonDevHub)
-[![Gitlab](https://mini-badges.rondevhub.de/icon/gitlab-fca326/Gitlab-fca326-222/social "Gitlab")](https://gitlab.com/RonDevHub)
-[![CommitCloud](https://mini-badges.rondevhub.de/icon/codecommit-84bd00/CommitCloud-84bd00-222/social "CommitCloud")](https://commitcloud.net/RonDevHub)
-[![Godeberg](https://mini-badges.rondevhub.de/icon/mountains-ecb731/Codeberg-ecb731-222/social "Codeberg")](https://codeberg.org/RonDevHub)
+[![Mastodon](https://mini-badges.rondev.de/icon/mastodon-8db9ca/Mastodon-8db9ca-222/social "Mastodon")](https://mastodon.social/@RonDev)
+[![Bluesky](https://mini-badges.rondev.de/icon/bluesky-0079c1/Bluesky-0079c1-fff/social "Bluesky")](https://bsky.app/profile/rondevhub.bsky.social)
+[![Github](https://mini-badges.rondev.de/icon/github-f5f5f5/Github-f5f5f5-222/social "Github")](https://github.com/RonDevHub)
+[![Gitlab](https://mini-badges.rondev.de/icon/gitlab-fca326/Gitlab-fca326-222/social "Gitlab")](https://gitlab.com/RonDevHub)
+[![CommitCloud](https://mini-badges.rondev.de/icon/codecommit-84bd00/CommitCloud-84bd00-222/social "CommitCloud")](https://commitcloud.net/RonDevHub)
+[![Godeberg](https://mini-badges.rondev.de/icon/mountains-ecb731/Codeberg-ecb731-222/social "Codeberg")](https://codeberg.org/RonDevHub)
